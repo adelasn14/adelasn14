@@ -1,9 +1,22 @@
 # Hello everyone!
 
-My name is Adela Salma Nadhifa
+My name is Adela Salma Nadhifa.
 
-I am currently on my 6th semester, majoring in Computer Science in Universitas Dian Nuswantoro
+I am a fresh graduate this March 2023 from Dian Nuswantoro University with the thesis, 
 
-On this current semester, i'm joining Bangkit Academy Program which will start on Feb 14, 2022
+Pengembangan Sistem Backend Aplikasi Seluler Untuk Monitoring Evaluasi Kinerja Perangkat Daerah Di Kabupaten Grobogan Menggunakan RESTful API or Development of a Cellular Application Backend System for Monitoring Evaluation of Regional Apparatus Performance in Grobogan Regency Using RESTful API
 
-For accomplished academic purpose, my GPA is 3.63
+I am a Google Certified Associate Android Developer achieved in November 2022 and also a Bangkit 2022 Graduate in Mobile Development Path!
+
+Here in my GitHub Repository, you can see my struggle-and-tears ( :D ) from the thesis coding, backend_elakip (https://github.com/adelasn14/backend_elakip), through my Bangkit 2022 capstone project, Braindiction (https://github.com/adelasn14/BrainDiction)
+
+
+Link to my certificate and Linkedin :
+
+1. Google Certificate
+
+https://www.credential.net/28c41a73-d8ec-4ca5-ba94-17e63e97ded1
+
+2. Linkedin
+
+https://www.linkedin.com/in/adelanadhifa/
