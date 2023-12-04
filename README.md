@@ -2,7 +2,7 @@
 
 My name is Adela Salma Nadhifa.
 
-I am a fresh graduate this March 2023 from Dian Nuswantoro University with the thesis, 
+I am a fresh graduate from Dian Nuswantoro University with the thesis, 
 
 Pengembangan Sistem Backend Aplikasi Seluler Untuk Monitoring Evaluasi Kinerja Perangkat Daerah Di Kabupaten Grobogan Menggunakan RESTful API or Development of a Cellular Application Backend System for Monitoring Evaluation of Regional Apparatus Performance in Grobogan Regency Using RESTful API
 
